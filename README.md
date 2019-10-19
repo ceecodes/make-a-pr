@@ -1,6 +1,6 @@
-# A Repository for people to make PRs to.
+# This is a Repository for people to make PRs to.
 
-## Instructions
+## Follow the instructions to complete your pull request:
 
 - Fork this Repository
 - Clone it to your PC
@@ -12,6 +12,6 @@
 - Celebrate ! 
 
 
-Read about markdown syntax here
+Read about markdown syntax here:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
  
